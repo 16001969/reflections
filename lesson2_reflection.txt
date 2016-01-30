@@ -20,6 +20,10 @@ What is the result of merging two branches together? Why do we represent it in t
 the result is a clean version of a upgraded program
 and it is easy for us to understand things if we can visualize it
 
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+-pros is that it will make easy for us to do the merging
+-cons it does not know how the code is writed so it will have errors
+
 
 
 

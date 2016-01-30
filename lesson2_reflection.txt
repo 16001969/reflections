@@ -15,6 +15,11 @@ are not sure if the code will work or you will keep it.
 How do the diagrams help you visualize the branch structure?
 It helps you by looking for things that your mind can't process easily
 
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+
+the result is a clean version of a upgraded program
+and it is easy for us to understand things if we can visualize it
+
 
 
 

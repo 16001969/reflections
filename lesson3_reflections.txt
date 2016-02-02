@@ -1,2 +1,5 @@
 When would you want to use a remote repository rather than keeping all your work local?
-when I'm ready to upload code to the public
+-when I'm ready to upload code to the public
+
+Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
+-sometimes you need to select what you are going to put in the cloud

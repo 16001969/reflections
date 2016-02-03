@@ -15,3 +15,6 @@ branches to make different versions of my software
 What is the benefit of having a copy of the last known state of the remote stored locally?
 -because you can return to that one, even if the code has been modified in the previous one
 also you can continue working on the code and merge it later
+
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+-Using E-mail, it will be harder to do it in emails because it dont have tracking history

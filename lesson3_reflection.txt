@@ -11,3 +11,7 @@ branches are different parts of a repository.
 I will use fork for making a copy of a repository that is not from me.
 clone to make a exact copy of a repository
 branches to make different versions of my software
+
+What is the benefit of having a copy of the last known state of the remote stored locally?
+-because you can return to that one, even if the code has been modified in the previous one
+also you can continue working on the code and merge it later
